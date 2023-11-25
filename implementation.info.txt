@@ -1,0 +1,22 @@
+ImplementationDescription: LIGTSHED, easy C implementation
+ImplementationAuthors: Abdulrazzaq & Jalal
+
+EncryptionKeyScheduleConstants: SBOX_constants,primitives
+EncryptConstants: SBOX_constants,primitives
+DecryptionKeyScheduleConstants:
+DecryptConstants: SBOX_constants,primitives
+
+EncryptionKeyScheduleCode:
+EncryptCode:SBOX_constants,primitives
+
+DecryptionKeyScheduleCode:
+DecryptCode:SBOX_constants,primitives
+
+
+UseEncryptionKeySchedule: yes
+UseDecryptionKeySchedule: no
+
+ImplementationAVR: C
+ImplementationMSP: C
+ImplementationARM: C
+ImplementationPC: C
