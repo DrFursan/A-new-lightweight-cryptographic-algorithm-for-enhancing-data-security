@@ -1,5 +1,5 @@
 ImplementationDescription: LIGTSHED, easy C implementation
-ImplementationAuthors: Abdulrazzaq & Jalal
+ImplementationAuthors: Fursan Thabit & Abdulrazzaq 
 
 EncryptionKeyScheduleConstants: SBOX_constants,primitives
 EncryptConstants: SBOX_constants,primitives
